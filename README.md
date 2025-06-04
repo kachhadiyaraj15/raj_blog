@@ -1,6 +1,2 @@
----
-icon: hand-wave
----
-
-# Raj's Blog
+# 👋 Raj's Blog
 
