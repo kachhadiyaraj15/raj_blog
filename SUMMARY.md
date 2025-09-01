@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Raj's Blog](README.md)
+* [👋 Raj Kachhadiya](README.md)
 * [🚀 Cuda](cuda/README.md)
   * [🔢 Indexing](cuda/indexing.md)
 * [Page](page.md)
